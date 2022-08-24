@@ -2,7 +2,11 @@
 Orlando</a></h1>
 <h3 align="center">A passionate Developer from México :mexico:</h3>
 
-[![foto-perfil-circulo-200x200.png](https://i.postimg.cc/28SNbmQc/foto-perfil-circulo-200x200.png)](https://postimg.cc/HjRhRqPX)
+<p align="center" width="300">
+   <img align="center" width="200" src="https://i.postimg.cc/28SNbmQc/foto-perfil-circulo-200x200.png" />
+   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+</p>
+
 
     
     const MX = {
