@@ -4,7 +4,6 @@ Orlando</a></h1>
 
 <p align="center" width="300">
    <img align="center" width="200" src="https://i.postimg.cc/28SNbmQc/foto-perfil-circulo-200x200.png" />
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
 </p>
 
 
